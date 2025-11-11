@@ -1,4 +1,3 @@
 .vscode/
-*/*.exe
-*.cpp
+demo.cpp
 *.exe
