@@ -18,6 +18,7 @@
 */
 #include <iostream>
 #include <sstream>
+#include <sstream>
 #include <cmath>
 #include <iomanip>
 #ifdef _WIN32
